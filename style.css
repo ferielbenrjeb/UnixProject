@@ -1,0 +1,22 @@
+window{
+    background-color: #FFFFFF;
+}
+
+
+.button1
+{
+    border-radius: 50px;
+    background-color: #bbe4e9;
+}
+.button2
+{
+    border-radius: 50px;
+    background-color: #bbe4e9;
+}
+button:hover
+{
+    background-color: grey;
+}
+
+
+
